@@ -1,0 +1,130 @@
+.result_container {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url('../images/q1.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* background-color:#9d96a0; */
+}
+
+.result {
+    width: 50%;
+    height: 70%;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    /* background-image: url('../images/q1.png'); */
+
+
+}
+
+.status {
+    margin-bottom: 4vmax;
+
+}
+
+h1 {
+    /* line-height: 2vmax; */
+    font-family: 'Script', sans-serif;
+
+
+}
+
+.win_or_loss {
+    text-shadow: 4px 2px 2px rgba(218, 220, 149, 0.6);
+
+}
+
+h2 {
+    line-height: 5vmax;
+
+}
+
+h3 {
+    line-height: 2vmax;
+
+}
+
+.button {
+    margin-bottom: 2vmax;
+
+}
+
+.tryAgain_btn {
+    width: 10vmax;
+    height: 3.4vmax;
+    font-weight: bold;
+    font-size: 1.5vmax;
+    border-radius: 10px;
+    cursor: pointer;
+
+    background-color: rgb(127, 192, 194);
+    color: rgb(66, 61, 61);
+    border: none;
+    -webkit-box-shadow: 0px 0px 4px 4px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 0px 0px 4px 4px rgba(0, 0, 0, 0.75);
+    box-shadow: 0px 0px 4px 4px rgba(0, 0, 0, 0.75);
+
+
+}
+
+.tryAgain_btn:hover {
+    background-color: rgb(143, 232, 232);
+    color: black;
+    text-shadow: -3px 1px 2px rgb(102, 53, 53), -5px 0px 4px rgba(24, 119, 5, 1), 1px -1px 1px rgba(12, 13, 5, 1);
+    -webkit-box-shadow: inset 0px 0px 5px 5px rgba(0, 0, 0, 0.42);
+    -moz-box-shadow: inset 0px 0px 5px 5px rgba(0, 0, 0, 0.42);
+    box-shadow: inset 0px 0px 5px 5px rgba(0, 0, 0, 0.42);
+}
+
+@media only screen and (max-width : 780px) {
+    .result {
+        width: 100%;
+        height: 80%;
+    }
+
+    .status {
+        margin-bottom: 10vmax;
+
+    }
+
+    h1 {
+        padding-left: 2vmax;
+        font-size: 4.4vmax;
+        padding-bottom: 2vmax;
+
+    }
+
+    h2 {
+        padding-left: 5vmax;
+        font-size: 3.5vmax;
+        padding-bottom: 2vmax;
+        line-height: 9vmax
+    }
+
+    h3 {
+        padding-left: 2vmax;
+        font-size: 3vmax;
+        padding-bottom: 2vmax;
+        line-height: 3.5vmax
+    }
+
+    .tryAgain_btn {
+        width: 17vmax;
+        height: 4.8vmax;
+        font-weight: bold;
+        font-size: 2.5vmax;
+
+
+        background-color: rgb(141, 236, 239);
+
+
+
+
+    }
+}

@@ -1,0 +1,104 @@
+{
+  "data": [
+    {
+      "Question": "What is the capital of india ?",
+      "Options": [
+        "Pune ",
+        "Delhi",
+        "Karnataka",
+        "Panjab"
+      ],
+      "Answer": "Delhi"
+    },
+    {
+      "Question": "National Game of India?",
+      "Options": [
+        "Cricket",
+        "Hockey",
+        "FootBall",
+        "Kabaddi"
+      ],
+      "Answer": "Hockey"
+    },
+    {
+      "Question": "How many letters are there in the English alphabet? ",
+      "Options": [
+        "24",
+        "28",
+        "26",
+        "21"
+      ],
+      "Answer": "26"
+    },
+    {
+      "Question": "Who was the first President of India?",
+      "Options": [
+        "Dr. Rajendra Prasad",
+        "Dr. Sarvepalli Radhakrishnan",
+        "Fakhruddin Ali Ahmed",
+        " R. Venkataraman"
+      ],
+      "Answer": "Dr. Rajendra Prasad"
+    },
+    {
+      "Question": "How many Cricket world cups does India have?",
+      "Options": [
+        "5",
+        "0",
+        "1",
+        "2"
+      ],
+      "Answer": "2"
+    },
+    {
+      "Question": "Gateway of India is located at?",
+      "Options": [
+        "Mumbai",
+        "Gujarat",
+        "Panjab",
+        "Pune"
+      ],
+      "Answer": "Mumbai"
+    },
+    {
+      "Question": "How many days are there in a Leap year?",
+      "Options": [
+        "355",
+        "365",
+        "366",
+        "367"
+      ],
+      "Answer": "366"
+    },
+    {
+      "Question": "what is  HTML?",
+      "Options": [
+        "Hyper Text Makeup Language",
+        "Het Text Mark Language",
+        "Hello To My Land",
+        "Hyper Text Markup Language"
+      ],
+      "Answer": "Hyper Text Markup Language"
+    },
+    {
+      "Question": "what is CSS?",
+      "Options": [
+        "Central State System",
+        "Cad Style Sheet",
+        "All",
+        "Cascade Style Sheet"
+      ],
+      "Answer": "Cascade Style Sheet"
+    },
+    {
+      "Question": "Who invented Computer",
+      "Options": [
+        "James Gosling",
+        "Charles Babbage",
+        "Brendan Eich",
+        "Dennis Ritchie"
+      ],
+      "Answer": "Charles Babbage"
+    }
+  ]
+}
